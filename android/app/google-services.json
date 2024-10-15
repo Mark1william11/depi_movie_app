@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472358422746",
+    "project_id": "depimovieapp",
+    "storage_bucket": "depimovieapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472358422746:android:ba9bd8e0cd7a1d042afde3",
+        "android_client_info": {
+          "package_name": "com.example.depi_movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD245_2wINdBygvVQwWyjWxgB_XUFSZ7pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
